@@ -2,7 +2,7 @@
 
 <h4 align='center'>Работает только на видеокартах NVIDIA</h4>
 <p align='center'>
-	<img src='https://img.shields.io/badge/01.07.2025-UPDATED-brightgreen'>
+	<img src='https://img.shields.io/badge/07.01.2025-UPDATED-brightgreen'>
 </p>
 
 ## Описание
