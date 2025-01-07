@@ -1,7 +1,9 @@
 <h1 align="center">missware</h1>
 
 <h4 align='center'>Работает только на видеокартах NVIDIA</h4>
-<p align='center'>Хочу сообщить, что я не планирую продолжать обновление нашего проекта. В связи с изменением приоритетов, я не смогу уделять ему необходимое время и внимание.</p>
+<p align='center'>
+	<img src='https://img.shields.io/badge/01.07.2025-UPDATED-brightgreen'>
+</p>
 
 ## Описание
 
