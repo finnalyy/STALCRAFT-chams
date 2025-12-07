@@ -7,4 +7,4 @@
 ---
 
 📩 Связь: [Telegram](https://t.me/memesenser)  
-📢 Канал: [t.me/pmquestor](https://t.me/pmquestor)
+📢 Канал: [t.me/unholydev](https://t.me/unholydev)
