@@ -4,4 +4,4 @@
 ---
 
 📩 Связь: [Telegram](https://t.me/memesenser)  
-📢 Канал: [t.me/unholydev](https://t.me/unholydev)
+📢 Канал: [t.me/wxsdev](https://t.me/wxsdev)
